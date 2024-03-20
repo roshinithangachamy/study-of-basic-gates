@@ -72,8 +72,7 @@ module andgate(a,b,c);
 	 assign c = a & b;
 endmodule 
 ```
-OR GATE
-```
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 

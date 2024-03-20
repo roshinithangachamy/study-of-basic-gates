@@ -63,16 +63,29 @@ Y= A⊕B
 
 
 **PROGRAM**
+AND GATE
+```
+module andgate(a,b,c);
+  input a;
+	 input b;
+	 output c;
+	 assign c = a & b;
+endmodule 
+```
+OR GATE
+```
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber:212223230175 
  
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+![RTL](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/9efc0f43-d42f-45bd-a152-18f0684ec84a)
 
 **RTL**
+![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/755467b1-5973-436a-94f8-cdb8bf3e7662)
 
 **Result:**
 

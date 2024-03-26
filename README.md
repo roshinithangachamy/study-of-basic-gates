@@ -96,14 +96,15 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
-AND SYMBOL:
+
+## AND SYMBOL:
 ![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
 
 
-OR SYMBOL:
+## OR SYMBOL:
 ![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)
 
-NAND SYMBOL:
+## NAND SYMBOL:
 ![NAND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/94488fac-a20d-4ac1-b688-6150a79a7e9a)
 
 

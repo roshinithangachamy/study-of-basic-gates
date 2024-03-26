@@ -97,18 +97,28 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber:212223230175 
  
 **Logic symbol & Truthtable**
-![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/755467b1-5973-436a-94f8-cdb8bf3e7662)
-
-**RTL realization Output:** 
-
+```
 AND GATE:
-![RTL](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/9efc0f43-d42f-45bd-a152-18f0684ec84a)
+![RTL](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/427c371e-9f91-4baa-a006-6b2f1c51bfa5)
 
 OR GATE:
-![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/866bf62d-7aa2-46db-b2b5-d1c7e7d61196)
+![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/042177cc-0176-4887-a0b6-9e4bee1fdac8)
 
 NAND GATE:
+![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/574bfbe6-573d-4a8e-8c7c-0e735a184b65)
+```
+**RTL realization Output:** 
+```
+AND GATE:
+![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
 
+OR GATE:
+![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/5cd79c65-0ab9-4120-9bd8-bab602b785ec)
+
+NAND GATE:
+![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
+
+```
 **RTL**
 
 **Result:**

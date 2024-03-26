@@ -94,8 +94,6 @@ module nandgate(a,b,e);
   assign e = ~(a & b);
 endmodule
 ```
-
- Developed by: RegisterNumber:212223230175 
  
 **Logic symbol & Truthtable**
 AND SYMBOL:

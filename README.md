@@ -99,7 +99,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Logic symbol & Truthtable**
 
 
-**RTL realization Output:** 
+**RTL realization Output** 
+
 AND GATE:
 ![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
 
@@ -111,6 +112,7 @@ NAND GATE:
 
 
 **RTL**
+
 AND GATE:
 ![RTL](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/427c371e-9f91-4baa-a006-6b2f1c51bfa5)
 

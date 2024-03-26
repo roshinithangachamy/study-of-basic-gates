@@ -1,5 +1,8 @@
 ### study-of-basic-gates
 
+Developed by: RegisterNumber:212223230175 
+ 
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -91,8 +94,6 @@ module nandgate(a,b,e);
   assign e = ~(a & b);
 endmodule
 ```
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: RegisterNumber:212223230175 
  

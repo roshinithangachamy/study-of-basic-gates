@@ -110,19 +110,13 @@ endmodule
 
 ## RTL realization Output
 
-AND GATE:
-
-
+AND GATE
 ![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
 
-OR GATE:
-
-
+OR GATE
 ![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/5cd79c65-0ab9-4120-9bd8-bab602b785ec)
 
-NAND GATE:
-
-
+NAND GATE
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
 
 ## RTL 

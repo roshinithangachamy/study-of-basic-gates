@@ -64,8 +64,8 @@ Y= A⊕B
 
 **PROGRAM**
 
-```
 AND GATE:
+```
 module andgate(a,b,c);
   input a;
   input b;
@@ -73,8 +73,8 @@ module andgate(a,b,c);
   assign c = a & b;
 endmodule 
 ```
-```
 OR GATE:
+```
 module orgate(a,b,d);
   input a;
   input b;
@@ -82,8 +82,8 @@ module orgate(a,b,d);
   assign d = a | b;
 endmodule
 ```
-```
 NAND GATE:
+```
 module nandgate(a,b,e);
   input a;
   input b;
@@ -97,7 +97,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber:212223230175 
  
 **Logic symbol & Truthtable**
-```
 AND GATE:
 ![RTL](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/427c371e-9f91-4baa-a006-6b2f1c51bfa5)
 
@@ -106,9 +105,8 @@ OR GATE:
 
 NAND GATE:
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/574bfbe6-573d-4a8e-8c7c-0e735a184b65)
-```
+
 **RTL realization Output:** 
-```
 AND GATE:
 ![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
 
@@ -118,7 +116,7 @@ OR GATE:
 NAND GATE:
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
 
-```
+
 **RTL**
 
 **Result:**

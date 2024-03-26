@@ -96,7 +96,7 @@ endmodule
 ```
 NOT GATE:
 ```
-module not12(a,g);
+module notgate(a,g);
   input a;
   output g;
   assign g = ~a;
@@ -104,14 +104,31 @@ endmodule
 ```
 NOR GATE:
 ```
-module nor12(a,b,f);
+module norgate(a,b,f);
  input a;
  input b;
  output f;
  assign f = ~(a | b);
 endmodule
 ```
- 
+EX-or GATE:
+```
+module xorgate(a,b,h);
+ input a;
+ input b;
+ output h;
+ assign h = a ^ b;
+endmodule
+```
+EX-nor GATE:
+```
+module xnorgate(a,b,i); 
+  input a; 
+  input b; 
+  output i; 
+  assign i = ~(a ^ b); 
+endmodule
+```
 ## Logic symbol & Truthtable
 
 ## and symbol:
@@ -127,6 +144,14 @@ endmodule
 ## not symbol:
 ![NOT](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/b3d0d4d1-b385-48b6-8ed8-b07f3216bab5)
 
+## nor symbol:
+![NOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/1bf686ee-49b1-4164-9e9f-e87b39d2c5a2)
+
+## ex-or symbol:
+![XOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/ba0aaf41-d6a5-4f1f-8e09-2c4bcab8c094)
+
+## ex-nor symbol:
+
 ## RTL realization Output
 
 AND GATE
@@ -140,6 +165,14 @@ NAND GATE
 
 NOT GATE
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/25b8e4f1-7ce1-4ee7-a1fd-ed00cb261257)
+
+NOR GATE
+![NORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/329737dd-4baa-4492-b4b5-314acf9db03b)
+
+EX-OR GATE
+![XORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/44049736-9b4d-4221-a608-1f9511cc2a4c)
+
+EX-NOR GATE
 
 ## RTL 
 

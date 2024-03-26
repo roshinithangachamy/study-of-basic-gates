@@ -98,7 +98,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 AND SYMBOL:
-![RTL](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/636ada50-6dfe-4417-9684-28d53512ebbe)
+![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
+
 
 OR SYMBOL:
 ![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)

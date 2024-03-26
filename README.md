@@ -94,6 +94,23 @@ module nandgate(a,b,e);
   assign e = ~(a & b);
 endmodule
 ```
+NOT GATE:
+```
+module not12(a,g);
+  input a;
+  output g;
+  assign g = ~a;
+endmodule
+```
+NOR GATE:
+```
+module nor12(a,b,f);
+ input a;
+ input b;
+ output f;
+ assign f = ~(a | b);
+endmodule
+```
  
 ## Logic symbol & Truthtable
 
@@ -107,6 +124,8 @@ endmodule
 ## nand symbol:
 ![NAND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/94488fac-a20d-4ac1-b688-6150a79a7e9a)
 
+## not symbol:
+![NOT](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/b3d0d4d1-b385-48b6-8ed8-b07f3216bab5)
 
 ## RTL realization Output
 
@@ -118,6 +137,9 @@ OR GATE
 
 NAND GATE
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
+
+NOT GATE
+![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/25b8e4f1-7ce1-4ee7-a1fd-ed00cb261257)
 
 ## RTL 
 

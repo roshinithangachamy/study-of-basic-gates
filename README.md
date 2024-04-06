@@ -76,6 +76,20 @@ module andgate(a,b,c);
   assign c = a & b;
 endmodule 
 ```
+## Logic symbol & Truthtable
+
+## and symbol:
+![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
+
+## RTL realization Output
+
+AND GATE
+![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
+
+TRUTH TABLE:
+![and tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/a2a27826-2404-4020-ae66-ac47f524af00)
+
+
 OR GATE:
 ```
 module orgate(a,b,d);

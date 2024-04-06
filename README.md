@@ -1,7 +1,7 @@
 ### STUDY-OF-BASIC-GATES
 
-Developed by:T.Roshini
-Register Number:212223230175 
+## Developed by:T.Roshini
+## Register Number:212223230175 
  
 
 ## AIM: 

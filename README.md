@@ -78,17 +78,16 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## and symbol:
+
 ![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
 
-![and tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/a2a27826-2404-4020-ae66-ac47f524af00)
+
+![image](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/46197325-8530-4bc2-9d70-917c748831e5)
+
 
 ## RTL realization Output
-AND GATE
+
 ![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
-
-
-
 
 
 ## OR GATE:
@@ -102,13 +101,12 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## or symbol:
 ![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)
 
-![or tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/41bd90fd-3888-4c45-a0c9-1eb89e5570d8)
+![Screenshot 2024-04-06 221853](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/909582e7-a1f5-4646-887a-3853bdea83ee)
 
 ## RTL realization Output
-OR GATE
+
 ![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/5cd79c65-0ab9-4120-9bd8-bab602b785ec)
 
 
@@ -123,11 +121,12 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## nand symbol:
 ![NAND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/94488fac-a20d-4ac1-b688-6150a79a7e9a)
 
+![image](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/289df557-e4ac-4e90-b846-72e73f34d4f0)
+
 ## RTL realization Output
-NAND GATE
+
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
 
 
@@ -141,11 +140,12 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## not symbol:
 ![NOT](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/b3d0d4d1-b385-48b6-8ed8-b07f3216bab5)
 
+![Screenshot 2024-04-06 222035](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/31b0112b-b442-46a4-aa1c-9d7567fae6d7)
+
 ## RTL realization Output
-NOT GATE
+
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/25b8e4f1-7ce1-4ee7-a1fd-ed00cb261257)
 
 
@@ -160,11 +160,12 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## nor symbol:
 ![NOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/1bf686ee-49b1-4164-9e9f-e87b39d2c5a2)
 
+![nor tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2618d6e2-f6a8-4e08-9eb4-07a9aa57bfe1)
+
 ## RTL realization Output
-NOR GATE
+
 ![NORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/329737dd-4baa-4492-b4b5-314acf9db03b)
 
 ## EX-or GATE:
@@ -178,11 +179,12 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## ex-or symbol:
 ![XOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/ba0aaf41-d6a5-4f1f-8e09-2c4bcab8c094)
 
+![xor tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/e5d10c48-18d4-492e-a6d8-8736cd4d674b)
+
 ## RTL realization Output
-EX-OR GATE
+
 ![XORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/44049736-9b4d-4221-a608-1f9511cc2a4c)
 
 ## EX-nor GATE:
@@ -196,7 +198,9 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## ex-nor symbol:
+
+![x-nor tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/fcb233e8-a521-4796-b142-391fee00e7f6)
+
 
 ## RTL realization Output
 EX-NOR GATE 

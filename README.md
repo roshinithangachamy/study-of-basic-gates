@@ -81,16 +81,14 @@ endmodule
 ## and symbol:
 ![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
 
-## RTL realization Output
-
 ![and tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/a2a27826-2404-4020-ae66-ac47f524af00)
 
-
+## RTL realization Output
 AND GATE
 ![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
 
 
-![and tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/a2a27826-2404-4020-ae66-ac47f524af00)
+
 
 
 ## OR GATE:
@@ -106,6 +104,8 @@ endmodule
 
 ## or symbol:
 ![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)
+
+![or tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/41bd90fd-3888-4c45-a0c9-1eb89e5570d8)
 
 ## RTL realization Output
 OR GATE

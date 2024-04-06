@@ -1,6 +1,7 @@
-### study-of-basic-gates
+### STUDY-OF-BASIC-GATES
 
-Developed by: RegisterNumber:212223230175 
+Developed by:T.Roshini
+RegisterNumber:212223230175 
  
 
 ## AIM: 
@@ -76,14 +77,12 @@ module andgate(a,b,c);
   assign c = a & b;
 endmodule 
 ```
-## Logic symbol & Truthtable
 
+## Logic symbol & Truthtable
 
 ![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
 
-
 ![image](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/46197325-8530-4bc2-9d70-917c748831e5)
-
 
 ## RTL realization Output
 
@@ -99,6 +98,7 @@ module orgate(a,b,d);
   assign d = a | b;
 endmodule
 ```
+
 ## Logic symbol & Truthtable
 
 ![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)
@@ -119,6 +119,7 @@ module nandgate(a,b,e);
   assign e = ~(a & b);
 endmodule
 ```
+
 ## Logic symbol & Truthtable
 
 ![NAND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/94488fac-a20d-4ac1-b688-6150a79a7e9a)
@@ -138,6 +139,7 @@ module notgate(a,g);
   assign g = ~a;
 endmodule
 ```
+
 ## Logic symbol & Truthtable
 
 ![NOT](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/b3d0d4d1-b385-48b6-8ed8-b07f3216bab5)
@@ -158,6 +160,7 @@ module norgate(a,b,f);
  assign f = ~(a | b);
 endmodule
 ```
+
 ## Logic symbol & Truthtable
 
 ![NOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/1bf686ee-49b1-4164-9e9f-e87b39d2c5a2)
@@ -168,6 +171,7 @@ endmodule
 
 ![NORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/329737dd-4baa-4492-b4b5-314acf9db03b)
 
+
 ## EX-or GATE:
 ```
 module xorgate(a,b,h);
@@ -177,6 +181,7 @@ module xorgate(a,b,h);
  assign h = a ^ b;
 endmodule
 ```
+
 ## Logic symbol & Truthtable
 
 ![XOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/ba0aaf41-d6a5-4f1f-8e09-2c4bcab8c094)
@@ -187,6 +192,7 @@ endmodule
 
 ![XORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/44049736-9b4d-4221-a608-1f9511cc2a4c)
 
+
 ## EX-nor GATE:
 ```
 module xnorgate(a,b,i); 
@@ -196,8 +202,8 @@ module xnorgate(a,b,i);
   assign i = ~(a ^ b); 
 endmodule
 ```
-## Logic symbol & Truthtable
 
+## Logic symbol & Truthtable
 
 ![xnor](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/d66e58a3-32d9-489e-b640-c250161f0436)
 
@@ -205,10 +211,10 @@ endmodule
 
 ## RTL realization Output
 
-
 ![XNOR GATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/454bcc6e-ee13-4a6f-85bd-c6411ff7676e)
 
 
 ## Result:
+successfully executed.
 
 

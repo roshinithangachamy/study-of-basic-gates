@@ -199,11 +199,15 @@ endmodule
 ## Logic symbol & Truthtable
 
 
+![xnor](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/d66e58a3-32d9-489e-b640-c250161f0436)
+
 ![x-nor tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/fcb233e8-a521-4796-b142-391fee00e7f6)
 
-
 ## RTL realization Output
-EX-NOR GATE 
+
+
+![XNOR GATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/454bcc6e-ee13-4a6f-85bd-c6411ff7676e)
+
 
 ## Result:
 

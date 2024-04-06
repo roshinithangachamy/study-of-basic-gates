@@ -67,7 +67,7 @@ Y= A⊕B
 
 ## PROGRAM
 
-AND GATE:
+## AND GATE:
 ```
 module andgate(a,b,c);
   input a;
@@ -83,14 +83,17 @@ endmodule
 
 ## RTL realization Output
 
-TRUTH TABLE
 ![and tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/a2a27826-2404-4020-ae66-ac47f524af00)
 
 
 AND GATE
 ![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
 
-OR GATE:
+
+![and tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/a2a27826-2404-4020-ae66-ac47f524af00)
+
+
+## OR GATE:
 ```
 module orgate(a,b,d);
   input a;
@@ -109,7 +112,7 @@ OR GATE
 ![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/5cd79c65-0ab9-4120-9bd8-bab602b785ec)
 
 
-NAND GATE:
+## NAND GATE:
 ```
 module nandgate(a,b,e);
   input a;
@@ -128,7 +131,7 @@ NAND GATE
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
 
 
-NOT GATE:
+## NOT GATE:
 ```
 module notgate(a,g);
   input a;
@@ -146,7 +149,7 @@ NOT GATE
 ![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/25b8e4f1-7ce1-4ee7-a1fd-ed00cb261257)
 
 
-NOR GATE:
+## NOR GATE:
 ```
 module norgate(a,b,f);
  input a;
@@ -164,7 +167,7 @@ endmodule
 NOR GATE
 ![NORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/329737dd-4baa-4492-b4b5-314acf9db03b)
 
-EX-or GATE:
+## EX-or GATE:
 ```
 module xorgate(a,b,h);
  input a;
@@ -182,7 +185,7 @@ endmodule
 EX-OR GATE
 ![XORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/44049736-9b4d-4221-a608-1f9511cc2a4c)
 
-EX-nor GATE:
+## EX-nor GATE:
 ```
 module xnorgate(a,b,i); 
   input a; 

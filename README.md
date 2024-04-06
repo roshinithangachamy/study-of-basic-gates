@@ -1,9 +1,5 @@
 ### STUDY-OF-BASIC-GATES
 
-## Developed by:T.Roshini
-## Register Number:212223230175 
- 
-
 ## AIM: 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.

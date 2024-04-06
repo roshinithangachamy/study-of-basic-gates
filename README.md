@@ -83,12 +83,12 @@ endmodule
 
 ## RTL realization Output
 
-AND GATE
-![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
-
-TRUTH TABLE:
+TRUTH TABLE
 ![and tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/a2a27826-2404-4020-ae66-ac47f524af00)
 
+
+AND GATE
+![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
 
 OR GATE:
 ```
@@ -99,6 +99,16 @@ module orgate(a,b,d);
   assign d = a | b;
 endmodule
 ```
+## Logic symbol & Truthtable
+
+## or symbol:
+![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)
+
+## RTL realization Output
+OR GATE
+![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/5cd79c65-0ab9-4120-9bd8-bab602b785ec)
+
+
 NAND GATE:
 ```
 module nandgate(a,b,e);
@@ -108,6 +118,16 @@ module nandgate(a,b,e);
   assign e = ~(a & b);
 endmodule
 ```
+## Logic symbol & Truthtable
+
+## nand symbol:
+![NAND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/94488fac-a20d-4ac1-b688-6150a79a7e9a)
+
+## RTL realization Output
+NAND GATE
+![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
+
+
 NOT GATE:
 ```
 module notgate(a,g);
@@ -116,6 +136,16 @@ module notgate(a,g);
   assign g = ~a;
 endmodule
 ```
+## Logic symbol & Truthtable
+
+## not symbol:
+![NOT](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/b3d0d4d1-b385-48b6-8ed8-b07f3216bab5)
+
+## RTL realization Output
+NOT GATE
+![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/25b8e4f1-7ce1-4ee7-a1fd-ed00cb261257)
+
+
 NOR GATE:
 ```
 module norgate(a,b,f);
@@ -125,6 +155,15 @@ module norgate(a,b,f);
  assign f = ~(a | b);
 endmodule
 ```
+## Logic symbol & Truthtable
+
+## nor symbol:
+![NOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/1bf686ee-49b1-4164-9e9f-e87b39d2c5a2)
+
+## RTL realization Output
+NOR GATE
+![NORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/329737dd-4baa-4492-b4b5-314acf9db03b)
+
 EX-or GATE:
 ```
 module xorgate(a,b,h);
@@ -134,6 +173,15 @@ module xorgate(a,b,h);
  assign h = a ^ b;
 endmodule
 ```
+## Logic symbol & Truthtable
+
+## ex-or symbol:
+![XOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/ba0aaf41-d6a5-4f1f-8e09-2c4bcab8c094)
+
+## RTL realization Output
+EX-OR GATE
+![XORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/44049736-9b4d-4221-a608-1f9511cc2a4c)
+
 EX-nor GATE:
 ```
 module xnorgate(a,b,i); 
@@ -145,50 +193,10 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 
-## and symbol:
-![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
-
-
-## or symbol:
-![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)
-
-## nand symbol:
-![NAND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/94488fac-a20d-4ac1-b688-6150a79a7e9a)
-
-## not symbol:
-![NOT](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/b3d0d4d1-b385-48b6-8ed8-b07f3216bab5)
-
-## nor symbol:
-![NOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/1bf686ee-49b1-4164-9e9f-e87b39d2c5a2)
-
-## ex-or symbol:
-![XOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/ba0aaf41-d6a5-4f1f-8e09-2c4bcab8c094)
-
 ## ex-nor symbol:
 
 ## RTL realization Output
-
-AND GATE
-![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
-
-OR GATE
-![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/5cd79c65-0ab9-4120-9bd8-bab602b785ec)
-
-NAND GATE
-![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
-
-NOT GATE
-![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/25b8e4f1-7ce1-4ee7-a1fd-ed00cb261257)
-
-NOR GATE
-![NORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/329737dd-4baa-4492-b4b5-314acf9db03b)
-
-EX-OR GATE
-![XORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/44049736-9b4d-4221-a608-1f9511cc2a4c)
-
-EX-NOR GATE
-
-## RTL 
+EX-NOR GATE 
 
 ## Result:
 

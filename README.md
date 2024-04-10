@@ -1,6 +1,6 @@
 ### EX-1 <p align="center"><b>IMPLEMENTATION OF BASIC LOGIC GATES    </b>    
 
-**DATE:**
+## DATE:
 
 ## AIM: 
 

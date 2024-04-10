@@ -1,4 +1,6 @@
-### STUDY-OF-BASIC-GATES
+### EX-1 <p align="center"><b>IMPLEMENTATION OF BASIC LOGIC GATES    </b>    
+
+**DATE:**
 
 ## AIM: 
 
@@ -64,153 +66,158 @@ Y= A⊕B
 
 ## PROGRAM
 
+**NAME : T.ROSHINI**  
+**REGISTER NUMBER : 212223230175**
+
 ## AND GATE:
-```
-module andgate(a,b,c);
-  input a;
-  input b;
-  output c;
-  assign c = a & b;
-endmodule 
-```
 
-## Logic symbol & Truthtable
+**PROGRAM**
 
-![AND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/3cb71959-3c68-4efd-89b4-4c440b4ae32f)
+![Screenshot 2024-04-10 133440](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ea8256d6-9793-43aa-9599-8edb471afa27)
 
-![image](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/46197325-8530-4bc2-9d70-917c748831e5)
+ 
+**Logic symbol & Truthtable**
 
-## RTL realization Output
+![Screenshot 2024-04-04 111518](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e333ab21-f7bf-4aa0-8a6b-f69c57451122)
 
-![ANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2050a883-4510-4133-b6d4-6aeb68be4d55)
+
+**RTL**
+
+![EX-1 And gates](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e6d8cd84-a6f9-494a-8dbe-14f5232a24b1)
+
+
+**RTL realization Output:** 
+
+![EX-1 AND](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ff9b3046-63ed-449d-bba6-e1a0cff0279b)
 
 
 ## OR GATE:
-```
-module orgate(a,b,d);
-  input a;
-  input b;
-  output d;
-  assign d = a | b;
-endmodule
-```
 
-## Logic symbol & Truthtable
+**PROGRAM**
 
-![OR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/67898d45-e76f-4872-a698-33610cd0c2ff)
-
-![Screenshot 2024-04-06 221853](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/909582e7-a1f5-4646-887a-3853bdea83ee)
-
-## RTL realization Output
-
-![ORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/5cd79c65-0ab9-4120-9bd8-bab602b785ec)
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ddeb460c-e5f3-45b6-a115-169e4397563c)
 
 
-## NAND GATE:
-```
-module nandgate(a,b,e);
-  input a;
-  input b;
-  output e;
-  assign e = ~(a & b);
-endmodule
-```
+**Logic symbol & Truthtable**
 
-## Logic symbol & Truthtable
+![Screenshot 2024-04-04 111542](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/7c6f142b-46a3-4e36-a4c7-76008d1b9832)
 
-![NAND](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/94488fac-a20d-4ac1-b688-6150a79a7e9a)
 
-![image](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/289df557-e4ac-4e90-b846-72e73f34d4f0)
+**RTL**
 
-## RTL realization Output
+![Screenshot 2024-04-03 203536](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/18e815c2-415d-48a5-881e-a4073c55509d)
 
-![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/6cbf99d6-88a0-4e2c-a4ff-7c75b6831d5a)
 
+**RTL realization Output:** 
+
+![Screenshot 2024-04-03 203127](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/e4c2528d-b615-49a1-8c0d-eae421b8adcc)
 
 ## NOT GATE:
-```
-module notgate(a,g);
-  input a;
-  output g;
-  assign g = ~a;
-endmodule
-```
 
-## Logic symbol & Truthtable
+**PROGRAM**
 
-![NOT](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/b3d0d4d1-b385-48b6-8ed8-b07f3216bab5)
-
-![Screenshot 2024-04-06 222035](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/31b0112b-b442-46a4-aa1c-9d7567fae6d7)
-
-## RTL realization Output
-
-![NANDGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/25b8e4f1-7ce1-4ee7-a1fd-ed00cb261257)
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/1cad371c-4463-4d9d-a033-bdad05e1b6d1)
 
 
-## NOR GATE:
-```
-module norgate(a,b,f);
- input a;
- input b;
- output f;
- assign f = ~(a | b);
-endmodule
-```
+**Logic symbol & Truthtable**
 
-## Logic symbol & Truthtable
-
-![NOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/1bf686ee-49b1-4164-9e9f-e87b39d2c5a2)
-
-![nor tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/2618d6e2-f6a8-4e08-9eb4-07a9aa57bfe1)
-
-## RTL realization Output
-
-![NORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/329737dd-4baa-4492-b4b5-314acf9db03b)
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/19d8cb59-7eab-4f7b-a45d-296947b83146)
 
 
-## EX-or GATE:
-```
-module xorgate(a,b,h);
- input a;
- input b;
- output h;
- assign h = a ^ b;
-endmodule
-```
+**RTL** 
 
-## Logic symbol & Truthtable
-
-![XOR](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/ba0aaf41-d6a5-4f1f-8e09-2c4bcab8c094)
-
-![xor tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/e5d10c48-18d4-492e-a6d8-8736cd4d674b)
-
-## RTL realization Output
-
-![XORGATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/44049736-9b4d-4221-a608-1f9511cc2a4c)
+![Screenshot 2024-04-03 210519](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/b113887a-9711-4cc6-a370-65011076d102)
 
 
-## EX-nor GATE:
-```
-module xnorgate(a,b,i); 
-  input a; 
-  input b; 
-  output i; 
-  assign i = ~(a ^ b); 
-endmodule
-```
+**RTL realization Output:**
 
-## Logic symbol & Truthtable
+![Screenshot 2024-04-03 210033](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/91e6f5d3-07b5-4f9e-8304-e633aa560a0a)
 
-![xnor](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/d66e58a3-32d9-489e-b640-c250161f0436)
 
-![x-nor tt](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/fcb233e8-a521-4796-b142-391fee00e7f6)
+## NAND GATE
 
-## RTL realization Output
+**PROGRAM**
 
-![XNOR GATE](https://github.com/roshinithangachamy/study-of-basic-gates/assets/147118341/454bcc6e-ee13-4a6f-85bd-c6411ff7676e)
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d24d2a06-0780-4e5d-8f4f-5cd5825b96a0)
 
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-04 111602](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/a0137613-8911-48f3-b17b-8f2829320975)
+
+
+**RTL**
+
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/4af553bd-b913-4db8-a3ec-089a9482ad06)
+
+
+**RTL realization Output:**
+
+![Screenshot 2024-04-03 211416](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/cd6af132-c459-4b8d-ae94-7acece134f68)
+
+
+## NOR GATE
+
+**PROGRAM**
+
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/bbc077de-ee0e-446b-a62e-7117b5221b51)
+
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-04 111611](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/eb93295d-0d69-4b8f-bedd-99ec4f99c4aa)
+
+
+**RTL**
+
+![Screenshot 2024-04-03 212002](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/7cfffafe-e298-41f7-9563-46a1f94f5972)
+
+
+**RTL realization Output:**
+
+![Screenshot 2024-04-03 211930](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/cdfb5e64-a652-4bf0-89d8-1d07528a4a42)
+
+
+## EX-OR GATE 
+
+**PROGRAM**
+
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d286b753-55ac-4244-a3bd-9b43f11fab22)
+
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-04 111554](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/dfcd8129-dc9c-47bf-9dc1-8d34142f0f81)
+
+
+**RTL** 
+
+![Screenshot 2024-04-03 212819](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/d473eed3-f79f-48cf-a817-df2ec6c0eec2)
+
+
+**RTL realization Output:**
+
+![Screenshot 2024-04-03 212735](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/dbf2c102-470c-4de1-93f4-68449fe7390e)
+
+
+## EX-NOR
+
+**PROGRAM**
+
+![image](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/395f90c6-e3da-451d-baa9-93e89af26ad9)
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-04 111636](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/ed25b34e-8a78-4fd1-9b9b-86894a498f7d)
+
+
+**RTL**
+
+![Screenshot 2024-04-03 213908](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/0a08d115-8fe8-4943-b322-66f16da0ec08)
+
+**RTL realization Output:** 
+
+![Screenshot 2024-04-03 211930](https://github.com/subha-shinibalasubramanian/study-of-basic-gates/assets/164154478/b87a09f9-a913-4428-bcb4-8a1d92176656)
 
 ## Result:
-successfully executed.
-
-
+Thus,truth table of logic gates in Quartus II using Verilog programming is executed successfully and verified 
